@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>scroll proyect</title>
+    <!--front awesome -->
+    <link 
+    rel="stylesheet" 
+    href="/arrets/image/house-solid.svg" class=>
+    <!--styles css-->
+    <link rel="stylesheet" href="/styles-1.css">
+</head>
+<body>
+    <!--header-->
+    <header id="home">
+        <!--navbar-->
+        <nav id="nav">
+
+        </nav>
+        <div class="nav-center">
+            <img src="/arrets/image/paisaje-de-monta-a-naturaleza-camino-de-madera.jpg" alt="" class="logo">
+            <div class="container">
+                <img src="/arrets/image/house-solid.svg" alt="" class="casa">
+                <div class="sobre-nosotros">
+                    <button class="btn-1">nosotros</button>
+                </div>
+                <div class="servicios">
+                    <button class="btn-2">servicios</button>
+                </div>
+                <div class="tours">
+                    <button class="btn-3">tour</button>
+                </div>
+            </div>
+            
+        </div>
+    </header>
+    <div class="container-h2">
+        <h2 class="informaticon-1"> noso<span class="tros-pain">tros</span></h2>
+    </div>
+    <div class="information_main">
+       <p class="text-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nostrum exercitationem ab, qui consequatur magnam quaerat blanditiis suscipit molestias illum. Quidem iure vel est, illo sint aperiam tempora quod cum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt enim quia, reprehenderit omnis animi autem atque minima ad itaque corrupti assumenda odio ratione iure ullam laborum. Vitae eum ipsa esse?</p>
+    </div>
+    <div class="verga-imagen-2">
+        <img src="/arrets/image/0.jpeg" class="image-2">
+    </div>
+    <div class="tours-container">
+        <h2 class="tour-syles">tou<span class="ours-pain">rs</span>
+        </h2>
+
+    </div>
+
+   
+
+    <!--javascript-->
+    <script src="/proyecto-1.js"></script>
+    
+</body>
+</html>
